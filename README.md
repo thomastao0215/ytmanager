@@ -1,13 +1,13 @@
 # ytmanager
 
 A managment system.
-##Stack
-Backend:
+## Stack
+### Backend:
   * Spring
   * SpringMVC
   * Hibernate
   * Mysql
-Frontend:ss
+### Frontend:ss
   * React
   * dva
   * antd
